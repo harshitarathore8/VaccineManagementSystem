@@ -1,14 +1,7 @@
-/*
- *  Members -
- *  2328 - Shruti Datar
- *  2329 - Samruddhi Deode
- *  2332 - Nisha Deshmukh
- *  2336 - Yamini Dongaonkar
- */
+
 /*
  * admin.h
  *
- *  Created on: 06-May-2021
  *
  *  Includes the Admin class to provide the functionalities required by an Administrator.
  */
