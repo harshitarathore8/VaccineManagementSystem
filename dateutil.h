@@ -1,15 +1,6 @@
-/*
- * 	Members -
- *  2328 - Shruti Datar
- *  2329 - Samruddhi Deode
- *  2332 - Nisha Deshmukh
- *  2336 - Yamini Dongaonkar
- */
 
 /*
  * dateutil.h
- *
- *  Created on: 11-May-2021
  *
  *  Includes some helpers for handling dates.
  *  Used in Admin class in admin.h, in the run_process function
