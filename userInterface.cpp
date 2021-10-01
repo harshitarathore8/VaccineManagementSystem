@@ -1,17 +1,7 @@
-/*
- *  DSA Mini-Project : Vaccine Registration System
- *  A2 Comp SY 2020-2021
- *
- *  Members -
- *  2328 - Shruti Datar
- *  2329 - Samruddhi Deode
- *  2332 - Nisha Deshmukh
- *  2336 - Yamini Dongaonkar
- */
+
 /*
  * UserInterface.cpp
  *
- *  Created on: 05-May-2021
  *
  *  This is the source file of this project.
  *  It provides most of the user interface
